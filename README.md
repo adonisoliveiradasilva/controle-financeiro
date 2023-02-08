@@ -1,3 +1,27 @@
+
+## <img src="https://cdn-icons-png.flaticon.com/512/2422/2422788.png" width="20" height="20"> Controle Financeiro
+### <img src="https://cdn-icons-png.flaticon.com/512/4258/4258365.png" width="20" height="20"> Mais sobre a aplicação
+
+> <img src="https://cdn-icons-png.flaticon.com/512/4661/4661320.png" width="20" height="20">  Desenvolvido para plataforma Web.
+>
+
+### <img src="https://cdn-icons-png.flaticon.com/512/5424/5424004.png" width="20" height="20"> Desenvolvido com:
+> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="20" height="20"> HTML.
+>
+> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="20" height="20"> CSS.
+> 
+> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="20" height="20"> Javascript.
+> 
+> <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="20" height="20"> React.
+> 
+
+
+> 
+> <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="20" height="20"> Outros Projetos: [Github](https://github.com/adonisoliveiradasilva/).
+> 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
